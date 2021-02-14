@@ -1,0 +1,12 @@
+{
+  "name": "ScreamBoard",
+  "displayName": "ScreamBoard",
+  "expo": {
+    "name": "ScreamBoard",
+    "slug": "ScreamBoard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
